@@ -1,5 +1,7 @@
 # Crays Circle iOS App
 
+**Current operating environment — 24 November 2026:** CRAYS development, builds, testing, previews and server operation use AWS. Vercel, Neon and XXL references in older captures describe historical environments. This hosting status does not claim completion of every product flow. [Current AWS and source guidance](https://github.com/CraysWorld/.github/blob/main/docs/aws-operating-status.md).
+
 A decentralized mesh networking app that enables offline-first connections in lifestyle venues.
 
 ## 📱 About
@@ -18,7 +20,7 @@ Crays Circle transforms your smartphone into a Web3 smart node, creating mesh ne
 
 ### Development Setup
 ```bash
-git clone https://github.com/crays/crays-circle-ios.git
+git clone https://github.com/CraysWorld/crayscircle-ios.git
 cd crays-circle-ios
 pod install
 open CraysCircle.xcworkspace
